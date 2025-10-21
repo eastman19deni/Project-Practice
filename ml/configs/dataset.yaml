@@ -1,0 +1,6 @@
+train: "C:/Users/Professional/Project-Practice/ml/datasets/train/images"
+val: "C:/Users/Professional/Project-Practice/ml/datasets/val/images"
+test: "C:/Users/Professional/Project-Practice/ml/datasets/test/images"
+
+nc: 1
+names: ["person"]
